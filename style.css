@@ -1,0 +1,32 @@
+h1 {
+color: brown;
+margin-left: 100px;
+padding: 30px;
+}
+
+.header {
+ background-color: yellow;
+display: flex;
+justify-content: space-between;
+
+ }
+
+ .header *
+ {
+    border: solid;
+ }
+ 
+ body {
+    background-color:rgb(128,128,128);
+ }
+.menu{
+   margin-right: 100px;
+}  
+.menu a{
+color:red;
+
+}
+a:visited{
+   color:black
+}
+
